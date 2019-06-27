@@ -1,0 +1,3 @@
+The differential genes identified in the initial Syncom experiment between nb/flg22- and nb/flg22+ is nb_DEG_orig.csv
+
+The full RNA data set containing all the RNA seq results from the monoassociationns is MAE_mRNA_counts_filtered.txt
