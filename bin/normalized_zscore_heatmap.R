@@ -1,9 +1,9 @@
 # I want to make a heatmap of the clusters Paulo defined in the pilot experiment
 # I need the normalized data so that I can create heatmaps
 library(edgeR)
-
-rna_data <- read.delim("/Users/nicholascolaianni/Documents/dangl_lab/Paulo_MAE/data/MAE_mRNA_counts_filtered.txt", sep="\t", stringsAsFactors = F)
-rna_metadata <- read.delim("/Users/nicholascolaianni/Documents/dangl_lab/Paulo_MAE/data/design_MAE_complete.txt",sep="\t", stringsAsFactors = F)
+setwd("/Users/nicholascolaianni/Documents/dangl_lab/Paulo_MAE/MAE/data/")
+rna_data <- read.delim("MAE_mRNA_counts_filtered.txt", sep="\t", stringsAsFactors = F)
+rna_metadata <- read.delim("design_MAE_complete.txt",sep="\t", stringsAsFactors = F)
 
 
 separate_data_meta <- function( name, data ) {
@@ -65,11 +65,11 @@ norm_genes <- normalized_counts[[1]]
 normalized_counts_all <- normalized_counts[[2]]
 medians_of_norm <- normalized_counts[[3]]
 #read clusters of genes
-cluster_info <- read.delim("/Users/nicholascolaianni/Documents/dangl_lab/Paulo_MAE/data/clusters_IDs_IRM_experiment.txt", stringsAsFactors = F)
+cluster_info <- read.delim("clusters_IDs_IRM_experiment.txt", stringsAsFactors = F)
 table(cluster_info$cluster)
 
 #Read in the nb DEG for flg22+
-top_nbflg22 <- read.csv("/Users/nicholascolaianni/Desktop/nb_DEG.csv", stringsAsFactors = F)
+top_nbflg22 <- read.csv("nb_DEG_orig.csv", stringsAsFactors = F)
 top_nbflg22 <- top_nbflg22[top_nbflg22$logFC > log2(1.5) | top_nbflg22$logFC < -(log2(1.5)),]
 
 

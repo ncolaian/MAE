@@ -1,0 +1,55 @@
+Sample #	Bacteria	flg22	Group	Experiment
+IRM001	SynCom	minus	SynCom.flg22minus.sucminus.high	e3
+IRM002	SynCom	minus	SynCom.flg22minus.sucminus.high	e3
+IRM003	SynCom	minus	SynCom.flg22minus.sucminus.high	e3
+IRM004	SynComHK	minus	HK.flg22minus.sucminus.high	e3
+IRM005	SynComHK	minus	HK.flg22minus.sucminus.high	e3
+IRM006	SynComHK	minus	HK.flg22minus.sucminus.high	e3
+IRM007	NB	minus	NB.flg22minus.sucminus.high	e3
+IRM008	NB	minus	NB.flg22minus.sucminus.high	e3
+IRM009	NB	minus	NB.flg22minus.sucminus.high	e3
+IRM010	NB	plus	NB.flg22plus.sucminus.high	e3
+IRM011	NB	plus	NB.flg22plus.sucminus.high	e3
+IRM012	NB	plus	NB.flg22plus.sucminus.high	e3
+IRM019	SynCom	plus	SynCom.flg22plus.sucminus.high	e3
+IRM020	SynCom	plus	SynCom.flg22plus.sucminus.high	e3
+IRM021	SynCom	plus	SynCom.flg22plus.sucminus.high	e3
+IRM022	SynComHK	plus	HK.flg22plus.sucminus.high	e3
+IRM023	SynComHK	plus	HK.flg22plus.sucminus.high	e3
+IRM024	SynComHK	plus	HK.flg22plus.sucminus.high	e3
+IRM031	SynCom	minus	SynCom.flg22minus.sucminus.high	e4
+IRM032	SynCom	minus	SynCom.flg22minus.sucminus.high	e4
+IRM033	SynCom	minus	SynCom.flg22minus.sucminus.high	e4
+IRM034	SynComHK	minus	HK.flg22minus.sucminus.high	e4
+IRM035	SynComHK	minus	HK.flg22minus.sucminus.high	e4
+IRM036	SynComHK	minus	HK.flg22minus.sucminus.high	e4
+IRM037	NB	minus	NB.flg22minus.sucminus.high	e4
+IRM038	NB	minus	NB.flg22minus.sucminus.high	e4
+IRM039	NB	minus	NB.flg22minus.sucminus.high	e4
+IRM040	NB	plus	NB.flg22plus.sucminus.high	e4
+IRM041	NB	plus	NB.flg22plus.sucminus.high	e4
+IRM042	NB	plus	NB.flg22plus.sucminus.high	e4
+IRM049	SynCom	plus	SynCom.flg22plus.sucminus.high	
+IRM050	SynCom	plus	SynCom.flg22plus.sucminus.high	
+IRM051	SynCom	plus	SynCom.flg22plus.sucminus.high	
+IRM052	SynComHK	plus	HK.flg22plus.sucminus.high	
+IRM053	SynComHK	plus	HK.flg22plus.sucminus.high	
+IRM054	SynComHK	plus	HK.flg22plus.sucminus.high	
+IRM061	SynCom	minus	SynCom.flg22minus.sucminus.high	e4
+IRM062	SynCom	minus	SynCom.flg22minus.sucminus.high	e4
+IRM063	SynCom	minus	SynCom.flg22minus.sucminus.high	e4
+IRM064	SynComHK	minus	HK.flg22minus.sucminus.high	e4
+IRM065	SynComHK	minus	HK.flg22minus.sucminus.high	e4
+IRM066	SynComHK	minus	HK.flg22minus.sucminus.high	e4
+IRM067	NB	minus	NB.flg22minus.sucminus.high	e5
+IRM068	NB	minus	NB.flg22minus.sucminus.high	e5
+IRM069	NB	minus	NB.flg22minus.sucminus.high	e5
+IRM070	NB	plus	NB.flg22plus.sucminus.high	e5
+IRM071	NB	plus	NB.flg22plus.sucminus.high	e5
+IRM072	NB	plus	NB.flg22plus.sucminus.high	e5
+IRM079	SynCom	plus	SynCom.flg22plus.sucminus.high	e5
+IRM080	SynCom	plus	SynCom.flg22plus.sucminus.high	e5
+IRM081	SynCom	plus	SynCom.flg22plus.sucminus.high	e5
+IRM082	SynComHK	plus	HK.flg22plus.sucminus.high	e5
+IRM083	SynComHK	plus	HK.flg22plus.sucminus.high	e5
+IRM084	SynComHK	plus	HK.flg22plus.sucminus.high	e5
